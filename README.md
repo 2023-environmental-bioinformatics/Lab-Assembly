@@ -14,7 +14,7 @@ First, log onto Poseidon and set up a tmux window so we won't be interrupted:
 Navigate into your user folder for the class, and pull the "Txm-lab" Git repository:
 
 ```
-git clone git@github.com:2023-MIT-Environmental-Bioinformatics/Lab-Assembly.git
+git clone git@github.com:2023-environmental-bioinformatics/Lab-Assembly.git
 cd Lab-Assembly
 ```
 
@@ -95,6 +95,8 @@ We can also quickly map the reads back on the assembly and calculate how well ea
 
 You will end up with a new folder with the output name you specified. In it is a file called `quant.sf`. Use command line tools to explore it a little.
 
-EXERCISE (command line fun):
-Which contig has the highest TPM? Does it also have the highest read count?
-How many contigs have TPM < 2?
+> EXERCISE (command line fun):
+>
+>> Which contig has the highest TPM? Does it also have the highest read count?
+>
+>> How many contigs have TPM < 2?
