@@ -95,8 +95,8 @@ We can also quickly map the reads back on the assembly and calculate how well ea
 
 You will end up with a new folder with the output name you specified. In it is a file called `quant.sf`. Use command line tools to explore it a little.
 
-> EXERCISE (command line fun):
+### EXERCISE (command line fun):
 >
->> Which contig has the highest TPM? Does it also have the highest read count?
+>Which contig has the highest TPM? Does it also have the highest read count?
 >
->> How many contigs have TPM < 2?
+>How many contigs have TPM < 2?
